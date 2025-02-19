@@ -1,4 +1,4 @@
-#Project Overview
+# Project Overview
 This project was developed as part of the Hult Business Challenge, focusing on analyzing industry trends, customer behaviors, and competitive threats in the Online Travel Agency (OTA) industry. Using Python and SQL, we extracted, cleaned, and analyzed real-world datasets to uncover actionable insights and provide strategic recommendations for Expedia’s global expansion.
 
 # Key Objectives
